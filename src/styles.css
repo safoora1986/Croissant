@@ -1,0 +1,19 @@
+body {
+  background-color: #f8e8a6;
+  text-align: center;
+}
+a {
+  color: #008000;
+}
+a:hover {
+  color: #008000;
+}
+span {
+  margin-left: 30px;
+}
+#contact {
+  color: blue;
+}
+#links {
+  margin-top: 20px;
+}
